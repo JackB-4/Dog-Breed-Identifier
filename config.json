@@ -1,0 +1,10 @@
+{
+    "TRAIN_MODE": true,
+    "ACCURACY_MODE": false,
+    "MODEL_PATH": "best_model.pth",
+    "test_dir": "/Users/jack/Desktop/Coding/Machine Learning/Dog Breed Recognition/dogdata/evaluation",
+    "train_dir": "/Users/jack/Desktop/Coding/Machine Learning/Dog Breed Recognition/dogdata/images/Images",
+    "batch_size": 32,
+    "num_epochs": 25
+  }
+  
